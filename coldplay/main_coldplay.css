@@ -139,14 +139,17 @@ p#twelve {
 p#thirteen {
 		font-size: 16px;
 		line-height: 200%;
-		height: 100px;
 		text-align: left;
 		margin-left: auto;
     	margin-right: auto;
+		margin-bottom: 24px;
 		width: 700px;
 		}
 		 
-		 
+footer {
+	display: block;
+	clear:both;
+	}	 
 		 
 		 
 		
