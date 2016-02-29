@@ -1,0 +1,152 @@
+/* CSS Document */
+
+body {
+    background-color: #002448;
+}
+
+h1 {
+    color: #ffdc73;
+	letter-spacing: normal;
+	font-family: "courier new", courier, monospace;
+	font-weight: normal;
+	font-size: 50px;
+	text-align: center;
+	text-transform: capitalize;
+	}
+
+h2 {
+    color:  #e5e5e5;
+	letter-spacing: normal;
+	font-family: "univers", sans serif;
+	font-weight: normal;
+	font-size: 20px;
+	text-align: center;
+	text-transform: capitalize;
+	}
+
+ul {
+    font-family: "courier new", courier, monospace;
+	text-align: center;
+	word-spacing: 30px;
+	margin: 20px;
+    padding: 10px;
+    width: 100%;
+    background-color: #fff2cc;
+	}
+	
+
+a:link {
+	color: grey;
+	text-decoration: none;
+	}
+
+a:visited {
+	color: grey;
+	text-decoration: none;
+	}
+
+li :hover {
+    background-color:#ffffff;
+    color: grey;
+	text-decoration: none;
+	}
+	
+a:hover {
+	text-decoration: underline;
+	}
+	
+	a:active {
+	background-color: #ffdf80;
+	text-decoration: none;
+	}
+
+li {
+    display: inline;
+	color: #000000;
+	}
+
+p {
+    color: #e5e5e5;
+	letter-spacing: normal;
+    font-family: "univers", sans serif;
+	font-weight: 200;
+	line-height: 200%;
+	text-align: center;
+	margin: 40px;
+	}
+
+p#one {
+		font-size: 12px;
+		}
+		
+		
+p#two {
+		font-size: 14px;
+		}
+		
+		
+p#three {
+		font-size: 16px;
+		}
+		
+		
+p#four {
+		font-size: 18px;
+		}
+		
+		
+p#five {
+		font-size: 20px;
+		}
+		
+		
+p#six {
+		font-size: 22px;
+		}
+		
+		
+p#seven {
+		font-size: 24px;
+		}
+		
+		
+p#eight {
+		font-size: 26px;
+		}
+		
+		
+p#nine {
+		font-size: 28px;
+		}
+		
+		
+p#ten {
+		font-size: 12px;
+		line-height: 125%;
+		} 
+		
+		
+p#eleven {
+		font-size: 12px;
+		line-height: 125%;
+		}
+		 
+p#twelve {
+		font-size: 16px;
+		line-height: 300%;
+		}
+		 
+p#thirteen {
+		font-size: 16px;
+		line-height: 200%;
+		height: 100px;
+		text-align: left;
+		margin-left: auto;
+    	margin-right: auto;
+		width: 700px;
+		}
+		 
+		 
+		 
+		 
+		
