@@ -1,0 +1,79 @@
+@charset "UTF-8";
+/* CSS Document */
+
+	body {
+	background-color: #ffe2e2;
+	}
+	
+	h1 {
+    color: #ffffff;
+	letter-spacing: normal;
+	font-family: 'Pacifico', cursive;
+	font-weight: normal;
+	font-size: 90px;
+	text-align: center;
+	}
+
+	h2 {
+    color: #666;
+	letter-spacing: normal;
+	font-family: 'Libre Baskerville', serif;
+	font-weight: normal;
+	font-size:30px;
+	text-align: center;
+	}
+
+
+	p {
+	color: #666;
+	line-height: 160%;
+	text-align: center;
+	margin: 20px;
+    padding: 10px;
+	}
+
+	.container {
+	width: 600px;
+	margin: 0 auto;
+	}
+	
+	
+	img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	max-width: 100%;
+	min-width: 100%;
+	}
+	
+	img#logo {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	max-width: 30%;
+	min-width: 30%;
+	}
+	
+	a:link i.fa-twitter {
+	color: #4099FF;
+	}
+	
+	a:visited i.fa-twitter {
+	color: #4099FF;
+	}
+	
+	a:hover i.fa-twitter {
+	color: #666;
+	}
+	
+	footer {
+	text-align: center;
+    }
+	
+	
+	
+	
+	
+	
+	
+	
